@@ -1,6 +1,6 @@
 {
-  "name": "hermit-md",
-  "description": " Whatsapp bot.",
+  "name": "XENO MD",
+  "description": "XENO.",
   "keywords": [
     "whatsapp bot"
   ],
@@ -15,7 +15,7 @@
     "SUDO": {
       "description": "owner number of the bot",
       "required": true,
-      "value": "null"
+      "value": "919074739591"
     },
     "MODE": {
       "description": "mode public or private",
